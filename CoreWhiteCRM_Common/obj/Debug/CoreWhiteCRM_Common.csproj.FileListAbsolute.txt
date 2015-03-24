@@ -7,3 +7,8 @@ D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\bin\Debug\CoreWhit
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.dll
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.pdb
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.csprojResolveAssemblyReference.cache
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Common\bin\Debug\CoreWhiteCRM_Common.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Common\bin\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.csprojResolveAssemblyReference.cache
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.pdb

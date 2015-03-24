@@ -22,3 +22,15 @@ D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Controllers\bin\Debug\Sys
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Controllers\obj\Debug\CoreWhiteCRM_Controllers.csprojResolveAssemblyReference.cache
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Controllers\obj\Debug\CoreWhiteCRM_Controllers.dll
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Controllers\obj\Debug\CoreWhiteCRM_Controllers.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\CoreWhiteCRM_Controllers.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\CoreWhiteCRM_Controllers.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\AutoMapper.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\AutoMapper.Net4.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\System.Web.Mvc.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\AutoMapper.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\AutoMapper.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\AutoMapper.Net4.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\bin\Debug\System.Web.Mvc.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\obj\Debug\CoreWhiteCRM_Controllers.csprojResolveAssemblyReference.cache
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\obj\Debug\CoreWhiteCRM_Controllers.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Controllers\obj\Debug\CoreWhiteCRM_Controllers.pdb

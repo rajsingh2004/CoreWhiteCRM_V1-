@@ -18,3 +18,13 @@ D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Models\bin\Debug\AutoMapp
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Models\obj\Debug\CoreWhiteCRM_Models.csprojResolveAssemblyReference.cache
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Models\obj\Debug\CoreWhiteCRM_Models.dll
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Models\obj\Debug\CoreWhiteCRM_Models.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\CoreWhiteCRM_Models.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\CoreWhiteCRM_Models.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\AutoMapper.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\AutoMapper.Net4.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\AutoMapper.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\AutoMapper.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\bin\Debug\AutoMapper.Net4.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\obj\Debug\CoreWhiteCRM_Models.csprojResolveAssemblyReference.cache
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\obj\Debug\CoreWhiteCRM_Models.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_Models\obj\Debug\CoreWhiteCRM_Models.pdb

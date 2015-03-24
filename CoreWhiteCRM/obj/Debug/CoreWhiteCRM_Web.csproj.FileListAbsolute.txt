@@ -74,3 +74,41 @@ D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM\bin\System.Web.Mvc.xml
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM\obj\Debug\CoreWhiteCRM_Web.csprojResolveAssemblyReference.cache
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM\obj\Debug\CoreWhiteCRM_Web.dll
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM\obj\Debug\CoreWhiteCRM_Web.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\AutoMapper.Net4.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\CoreWhiteCRM_Web.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\CoreWhiteCRM_Web.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\AutoMapper.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\CoreWhiteCRM_Controllers.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.ServiceLocation.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.Mvc.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Web.Infrastructure.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Helpers.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Mvc.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Razor.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Webpages.Deployment.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Webpages.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Webpages.Razor.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Unity.Mvc5.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\WebActivatorEx.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\CoreWhiteCRM_Controllers.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\AutoMapper.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\AutoMapper.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\AutoMapper.Net4.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.ServiceLocation.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.Configuration.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.Mvc.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Razor.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Webpages.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Webpages.Deployment.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Webpages.Razor.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Helpers.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\bin\System.Web.Mvc.xml
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\obj\Debug\CoreWhiteCRM_Web.csprojResolveAssemblyReference.cache
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\obj\Debug\CoreWhiteCRM_Web.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM\obj\Debug\CoreWhiteCRM_Web.pdb

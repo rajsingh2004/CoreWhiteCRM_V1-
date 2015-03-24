@@ -10,6 +10,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using CoreWhiteCRM_Common.Enums;
 using CoreWhiteCRM_Common.Utility;
+using System.Configuration;
 
 namespace CoreWhiteCRM_DAL
 {
@@ -17,7 +18,7 @@ namespace CoreWhiteCRM_DAL
     {
         T _ObjT;
         Response _ObjResponse;
-        string _ConnectionString = @"Server=DAFFOLAP-203-PC\SQLEXPRESS;Database=Sample;Trusted_Connection=Yes;";
+        string _ConnectionString = ConfigurationManager.ConnectionStrings["CoreWhiteConnection"].ConnectionString;
         EnumDBCommandType _DBCommandType = EnumDBCommandType.StoredProcedure;
         List<PropertyInfo> lstProperties;
         List<PropertyInfo> lstCustomAttributeProperties;

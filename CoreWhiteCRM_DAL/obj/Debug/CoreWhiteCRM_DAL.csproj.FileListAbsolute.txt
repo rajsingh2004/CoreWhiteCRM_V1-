@@ -10,3 +10,11 @@ D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCR
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.csprojResolveAssemblyReference.cache
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.dll
 D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.dll.config
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_Common.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.csprojResolveAssemblyReference.cache
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\Core White\CoreWhite_V1\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.pdb

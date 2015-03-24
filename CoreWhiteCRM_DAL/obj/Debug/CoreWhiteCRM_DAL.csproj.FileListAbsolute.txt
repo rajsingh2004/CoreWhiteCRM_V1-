@@ -1,0 +1,12 @@
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.pdb
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.csprojResolveAssemblyReference.cache
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_DAL.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_Common.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\bin\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.csprojResolveAssemblyReference.cache
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_DAL\obj\Debug\CoreWhiteCRM_DAL.pdb

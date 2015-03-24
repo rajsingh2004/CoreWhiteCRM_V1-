@@ -1,0 +1,10 @@
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_ViewModels\bin\Debug\CoreWhiteCRM_ViewModels.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_ViewModels\bin\Debug\CoreWhiteCRM_ViewModels.pdb
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_ViewModels\obj\Debug\CoreWhiteCRM_ViewModels.csprojResolveAssemblyReference.cache
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_ViewModels\obj\Debug\CoreWhiteCRM_ViewModels.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_ViewModels\obj\Debug\CoreWhiteCRM_ViewModels.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_ViewModels\bin\Debug\CoreWhiteCRM_ViewModels.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_ViewModels\bin\Debug\CoreWhiteCRM_ViewModels.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_ViewModels\obj\Debug\CoreWhiteCRM_ViewModels.csprojResolveAssemblyReference.cache
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_ViewModels\obj\Debug\CoreWhiteCRM_ViewModels.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_ViewModels\obj\Debug\CoreWhiteCRM_ViewModels.pdb

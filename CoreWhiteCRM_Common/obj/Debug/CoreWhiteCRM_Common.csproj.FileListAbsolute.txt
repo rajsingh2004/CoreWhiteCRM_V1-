@@ -1,0 +1,9 @@
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_Common\bin\Debug\CoreWhiteCRM_Common.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_Common\bin\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.dll
+D:\projects\CoreWhiteCRM\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\bin\Debug\CoreWhiteCRM_Common.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\bin\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.dll
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.pdb
+D:\projects\CoreWhiteCRM_WorkingDirectory\CoreWhiteCRM_Common\obj\Debug\CoreWhiteCRM_Common.csprojResolveAssemblyReference.cache
